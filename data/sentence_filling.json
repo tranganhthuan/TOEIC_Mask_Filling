@@ -1,0 +1,322 @@
+{
+    "1": {
+        "1": "Folding bicycles have become more common",
+        "2": "Additional service fees may apply",
+        "3": "You can obtain route maps at most stations",
+        "4": "You must also supply your own bike lock",
+        "anwser": "You must also supply your own bike lock",
+        "question": "You are responsible for stowing your bike securely. [MASK]. Lakeview Railway does not take responsibility for bicycles lost or damaged aboard our trains."
+    },
+    "2": {
+        "1": "We believe you will see that our products are still a great value",
+        "2": "Our efforts to stay profitable have not been successful",
+        "3": "We hope our competitors will raise their prices too",
+        "4": "Our products are healthier than traditional baked goods",
+        "anwser": "We believe you will see that our products are still a great value",
+        "question": "Using the best ingredients evailable will allow us to provide the delicious desserts your restaurant guests have come to expect. [MASK]."
+    },
+    "3": {
+        "1": "I look forward to networking with other professionals in the field",
+        "2": "My membership will expire at the end of the year",
+        "3": "I will be giving a presentation at the conference",
+        "4": "I would like to apply for the position soon",
+        "anwser": "I look forward to networking with other professionals in the field",
+        "question": "As you also suggested, I will consider a membership in the Eastern Aeronautics Professional Association. [MASK]. I appreciate the information you shared about the organization's conference at the end of the month."
+    },
+    "4": {
+        "1": "The association grants scholarships for those studying zoology",
+        "2": "Supporters like you help preserve the park for public use",
+        "3": "We hope you enjoyed your visit to the park today",
+        "4": "Interested parties can volunteer to clean wildlife habitats",
+        "anwser": "Supporters like you help preserve the park for public use",
+        "question": "On behalf of the Australia Wildlife Park Association, thank you for your donation of 40 AUD to our national park. [MASK]. Individual contributions have helped it stay open to visitors for more than 50 years."
+    },
+    "5": {
+        "1": "You will receive a full refund",
+        "2": "A replacement is on back order",
+        "3": "Tracking your order is easy",
+        "4": "We will answer your question soon",
+        "anwser": "Tracking your order is easy",
+        "question": "Your package has shipped and is due to arrive on October 1. [MASK]. Simply visit www.sprtech.com/shipping/stalus, enter your order number, and press 'Search'."
+    },
+    "6": {
+        "1": "Thank you for accepting our invitation to the event",
+        "2": "Please prepare discussion points before the meeting",
+        "3": "Note that reservations are on a first come, first served basis",
+        "4": "The time of the next meeting will be announced in due course",
+        "anwser": "Note that reservations are on a first come, first served basis",
+        "question": "However, if another meeting is scheduled that conflicts with yours, you will be notified that the request has been declined. [MASK]. It is therefore advisable that you schedule your event well ahead of time."
+    },
+    "7": {
+        "1": "Hundreds of companies were initially considered",
+        "2": "We will forward several copies as soon as possible",
+        "3": "The is the fifth year we will be publishing this list",
+        "4": "It should be a high-resolution, full-color image",
+        "anwser": "It should be a high-resolution, full-color image",
+        "question": "As Voyacon's founder, could you e-mail us a digital photograph of yourself to use in the article? [MASK]. We would need to receive it by August 5."
+    },
+    "8": {
+        "1": "Board nominations close at the end of the day on Friday",
+        "2": "Critic Tony Watanabe gave the exhibition a five-star review",
+        "3": "The position requires extensive experience",
+        "4": "We look forward to hosting this event",
+        "anwser": "The position requires extensive experience",
+        "question": "The successful applicant will start work on January 2. [MASK]. Proven knowledge of local and regional artists is preferred."
+    },
+    "9": {
+        "1": "Our city is substantial in size",
+        "2": "Text messages are subject to service fees",
+        "3": "We send our newscasters to all areas of the city",
+        "4": "The app features frequent updates",
+        "anwser": "The app features frequent updates",
+        "question": "Use it to get traffic news if you are away from your television and are unable to watch our traffic reports. [MASK]. Plus, you can program your daily commute into the app to receive personalized alerts directly on your mobile device when any traffic-related event occurs along your note."
+    },
+    "10": {
+        "1": "Local firm Bromatel demonstrates the latest in cheese-making technology",
+        "2": "Next year some new conference activities are planned",
+        "3": "Cheese makers from around the country compete",
+        "4": "Hotel reservations can be made on our Web site",
+        "anwser": "Cheese makers from around the country compete",
+        "question": "The prestigious Wizard of Cheese contest is held at this event. [MASK]. Dan Travella was last year’s champion."
+    },
+    "11": {
+        "1": "There are dozens of ways to improve one’s writing skills",
+        "2": "That is why an editorial calendar is so important to our publication",
+        "3": "This will increase the likelihood of your proposal being accepted",
+        "4": "While this story is excellent, it does not meet our needs at this time",
+        "anwser": "This will increase the likelihood of your proposal being accepted",
+        "question": "Before submitting an idea for publication, please read the guidelines at www.zientravel.com/writers, as they outline our specific areas of interest in detail. [MASK]. Note that we aim to respond to all correspondence in a timely manner, but there may be times when we are slow to respond."
+    },
+    "12": {
+        "1": "No photos can be used without my written authorization",
+        "2": "A display of photos is not enough to attract prospective visitors",
+        "3": "A systematic way of filing photo is essential for easy retrieval",
+        "4": "Photos that were not in the proper format have been rejected",
+        "anwser": "A display of photos is not enough to attract prospective visitors",
+        "question": "You should also consider supplementing the imagery used to promote the city. [MASK]. We therefore recommend uploading some professionally made videos featuring the various attractions Brookside has to offer."
+    },
+    "13": {
+        "1": "All ground floor offices will remain accessible",
+        "2": "The construction firm has won several awards",
+        "3": "The building is more than 50 years old",
+        "4": "The board of directors is discussing the project",
+        "anwser": "All ground floor offices will remain accessible",
+        "question": "While the main entrance is closed, employees and visitors may use the side entrances to gain access to the building. [MASK]. "
+    },
+    "14": {
+        "1": "These meetings take place on a regular basis",
+        "2": "The product is currently being developed",
+        "3": "We hope to learn more about the position",
+        "4": "We look forward to his guidance",
+        "anwser": "A display of photos is not enough to attract prospective visitors",
+        "question": "'Mr. Ramirez’s familiarity with sophisticated technology, combined with his leadership experience, makes him well suited to lead our company,' said Mr. Wang.'[MASK]'"
+    },
+    "15": {
+        "1": "We hope you have an enjoyable trip",
+        "2": "Both amounts have been credited to your account",
+        "3": "Your complaint will soon be reviewed",
+        "4": "Thank you for your understanding",
+        "anwser": "Both amounts have been credited to your account",
+        "question": "Also, we will reimburse the $200 you paid in hotel charges resulting from the disruption. [MASK]. Please allow up to five business days for the transactions to process."
+    },
+    "16": {
+        "1": "I was impressed by the rehearsal",
+        "2": "Luckily, it is not noticeable to viewers",
+        "3": "We will need different equipment",
+        "4": "However, it may take the full day",
+        "anwser": "However, it may take the full day",
+        "question": "As long as everyone is punctual and everything goes well, we should get the footage we needed by then. [MASK]"
+    },
+    "17": {
+        "1": "Any items left behind will be discarded",
+        "2": "The contents of each refrigerator must be labeled",
+        "3": "Employees should report to work as usual",
+        "4": "Emergency lighting will allow each department to remain operational",
+        "anwser": "Any items left behind will be discarded",
+        "question": "Furthermore, employees are asked to remove any personal contents from the kitchenette. [MASK]. Please direct questions or concerns to the director of building maintenance."
+    },
+    "18": {
+        "1": "We offer different settings depending on the size of your party",
+        "2": "We are happy to answer any query you have about available dates",
+        "3": "We are interested in hearing your opinion about our services",
+        "4": "We offer lunch and dinner catering options for various types of events",
+        "anwser": "We offer different settings depending on the size of your party",
+        "question": "We welcome the opportunity to inform you about the areas we have available. [MASK]. Then there’s our grand dining room, intended for more formal parties."
+    },
+    "19": {
+        "1": "People who use the program have created Web-site accounts",
+        "2": "In a recent survey, many respondents mentioned a concern for safety",
+        "3": "Nearby Grandmont’s bicycle-share program is in its fifth successful year",
+        "4": "He aims to have the bicycle stations ready for use as early as next April",
+        "anwser": "He aims to have the bicycle stations ready for use as early as next April",
+        "question": "Moreover, I want to encourage local residents to spend more time outdoors and enjoy our beautiful town,” added the mayor at the end of his remarks. [MASK]."
+    },
+    "20": {
+        "1": "Thank you for adhering to the policies",
+        "2": "Our new logo is displayed on the cover",
+        "3": "This is the first change in over ten years",
+        "4": "Corporate lawyers were hired to write it",
+        "anwser": "This is the first change in over ten years",
+        "question": "Klok Financial has recently updated its employee handbook. [MASK]. The process for reimbursement after a trip is now much more efficient."
+    },
+    "21": {
+        "1": "The financial terms of the agreement have yet be disclosed",
+        "2": "The energy sector is vital to Tanzania's development",
+        "3": "Both companies have an exceptional grasp of the international financial market",
+        "4": "Both companies have an excellent reputation in their respective industries",
+        "anwser": "The financial terms of the agreement have yet be disclosed",
+        "question": "DGE serves about 250,000 households and businesses, while Arupo serves about 90,000. [MASK]. In a joint statement, CEOs Johnathan Gashaza of DGE and Coretha Komba of Arupo assured customers they will not see any service changes."
+    },
+    "22": {
+        "1": "Your Web site also listed an internship that would be a great opportunity",
+        "2": "The job description said that applicants should have an advance degree",
+        "3": "My manager replied to your request last week",
+        "4": "My extensive experience makes me an ideal fit for your company",
+        "anwser": "My extensive experience makes me an ideal fit for your company",
+        "question": "I think I have much to offer Farsten Products’ design department as an employee. [MASK]. I am currently an engineer at Yount Systems, where I have worked on machine and engine designs for the last six years."
+    },
+    "23": {
+        "1": "You have not been in our office recently",
+        "2": "No action is required if you like your current service",
+        "3": "We have great products you can buy",
+        "4": "E-mail messages are not available to all patients",
+        "anwser": "No action is required if you like your current service",
+        "question": "You are currently registered to receive our materials via e-mail. [MASK]. If you would like to add text messaging to your mode of communication with us or would like to change your preference, from e-mail to text messaging, please let us know at your earliest convenience."
+    },
+    "24": {
+        "1": "Moreover, she likes the covenience of having recharging station on highways",
+        "2": "In fact, she believes that in twenty years only electric cars will be sold here",
+        "3": "Therefore, she feels that the price of eletric cars is too high",
+        "4": "She notes that the populataion of Toftlund has been decreasing steadily",
+        "anwser": "In fact, she believes that in twenty years only electric cars will be sold here",
+        "question": "Ms. Rasmussen predicts the number of electric cars in Toftlund will more than double in the coming years. [MASK]."
+    },
+    "25": {
+        "1": "The company was not able to meet this goal",
+        "2": "Toda Entertainment will anncounce its new CEO next week",
+        "3": "Its worldwide sales were double that number",
+        "4": "Consumers can now purchase it for the first time",
+        "anwser": "Its worldwide sales were double that number",
+        "question": "The first game in that series, released two years ago, was a remarkable, success for the company, selling over 400,000 copies in Japan. [MASK]."
+    },
+    "26": {
+        "1": "The job seems like an ideal match for my skills and interests",
+        "2": "The company had an outstanding",
+        "3": "Note that I have applied for a number of other jobs as well",
+        "4": "Please contact me to discuss addtional scheduling options",
+        "anwser": "The job seems like an ideal match for my skills and interests",
+        "question": "It was good to speak with you today about the opening in the accounts receivable department at Riedeberg Realty. [MASK]. My prior experience has prepared me particularly well for this position."
+    },
+    "27": {
+        "1": "Therefore, the museum will place some of its oder pieces on loan",
+        "2": "Also, flash photography is not permitted",
+        "3": "Only a few staff members possess these specialized skills",
+        "4": "Unfortunately, it can be difficult to determine an object's age",
+        "anwser": "Also, flash photography is not permitted",
+        "question": "Nor does it keep artwork in areas with certain kinds of bright potentially harmful bulbs. [MASK]. By taking such measures, the GMA hopes that its collection will be enjoyed for generations to come."
+    },
+    "28": {
+        "1": "Driving direction are attached",
+        "2": "We apologize for the confusion",
+        "3": "Please reply with any suggestions",
+        "4": "Remember to confirm your attendance",
+        "anwser": "Please reply with any suggestions",
+        "question": "To make it easier for everyone to participate in this celebration, we are looking for a venue that is closer to our office building. [MASK].We plan to send out further details soon."
+    },
+    "29": {
+        "1": "The offer is only available to international visitors",
+        "2": "Tourists cannot see all the sites in a week",
+        "3": "The attractions are very crowded in the summer",
+        "4": "Several companies offer tour guides",
+        "anwser": "The offer is only available to international visitors",
+        "question": "The more you use it, the better value you will get. [MASK]. Passes must be purchased online before you leave your home country and are activated when you visit your first attraction."
+    },
+    "30": {
+        "1": "The workshop will be rescheduled for later in the week",
+        "2": "A few participants said they would have liked more practice",
+        "3": "An additional workshop in team building is occasionally offered",
+        "4": "We will provide you with an invoice requesting payment",
+        "anwser": "A few participants said they would have liked more practice",
+        "question": "Results were mainly positive, with 90 percent of participants stating that their communication skills are now stronger. [MASK]. Please let me know if you would like to discuss the workshops in more detail."
+    },
+    "31": {
+        "1": "We have not yet used up our inventory",
+        "2": "You can find it in your e-mail inbox",
+        "3": "Our finance department will need it",
+        "4": "Employees are happy with the product",
+        "anwser": "Our finance department will need it",
+        "question": "Can you send a statement with the revised monthly bill? [MASK]."
+    },
+    "32": {
+        "1": "Unfortunately, your bid arrived after the deadline",
+        "2": "We will inform you of our final decision soon",
+        "3": "Best wishes again on your recent expansion",
+        "4": "We will provide it to you promptly",
+        "anwser": "We will provide it to you promptly",
+        "question": "We are requesting no significant adjustments to the blueprints and specifications you submitted with your proposal. Please contact my office if you need additional information. [MASK]."
+    },
+    "33": {
+        "1": "We would greatly appreciate your cooperation with this effort",
+        "2": "Please inform us if you identify any maintenance needs",
+        "3": "During this time, please try to limit showers to ten minutes",
+        "4": "You will be asked to share all of your ideas at the staff meeting",
+        "anwser": "We would greatly appreciate your cooperation with this effort",
+        "question": "Notices will be posted in each room informing our guests of this policy. [MASK]. The management is deeply committed to conservation."
+    },
+    "34": {
+        "1": "Cloud Express has recently expanded its international routes",
+        "2": "Cloud Express hires only the most qualified employees",
+        "3": "The baggage office will be temporarily closed this week",
+        "4": "Please complete the baggage damage form as instructed",
+        "anwser": "Please complete the baggage damage form as instructed",
+        "question": "Domestic travelers are asked to report damage within 24 hours of reaching their destination, and international travelers must submit a report within five days of an incident. [MASK]. Office personnel will review and evaluate all claims."
+    },
+    "35": {
+        "1": "Interviews will be conducted in early May",
+        "2": "Lynn Sundquist has led many meetings",
+        "3": "All rooms must be reserved in advance",
+        "4": "Staff parking spaces will be marked clearly",
+        "anwser": "All rooms must be reserved in advance",
+        "question": "The new rooms range in occupancy from 10 to 25 people and are intended for meetings and study groups. [MASK]. Ms. Sundquist will be temporarily responsible for reserving the spaces until the end of March."
+    },
+    "36": {
+        "1": "For example, you need approval before anything is upgraded",
+        "2": "I will be showing this property to potential buyers on Thursday",
+        "3": "It is an interesting trend in the real estate industry",
+        "4": "Then I will search for commercial buildings that meet these criteria",
+        "anwser": "Then I will search for commercial buildings that meet these criteria",
+        "question": "Just respond to this e-mail with your price range, size needs, preferred area of town, and any other important requirements. --145--. If you wish, you may also sign up for alerts."
+    },
+    "37": {
+        "1": "They must also pass a background check to be eligible for employment",
+        "2": "Let Pro Unis design work uniforms for your company",
+        "3": "You can now follow us on social media",
+        "4": "We recently hired a new director of human resources",
+        "anwser": "They must also pass a background check to be eligible for employment",
+        "question": "Interested job-seekers will be directed to fill out an online application and upload a résumé. [MASK]."
+    },
+    "38": {
+        "1": "Our Finn Place office is also open on Saturday mornings",
+        "2": "This area has a rich history and a vibrant downtown",
+        "3": "The facility is comfortable, clean, and bright",
+        "4": "Once there, take a right onto Mountain View Road",
+        "anwser": "Our Finn Place office is also open on Saturday mornings",
+        "question": "They are both open from 8 a.m. to 5 p.m., Monday through Friday. [MASK]. Extended evening hours will be considered in the coming season."
+    },
+    "39": {
+        "1": "It was nice to meet you at the networking event",
+        "2": "Our firm is now six years old",
+        "3": "We are happy to have you as part of our team",
+        "4": "Unfortunately, we do not have an open receptionist position",
+        "anwser": "Unfortunately, we do not have an open receptionist position",
+        "question": "Your resumé was passed on to me by a colleague. [MASK]. We appreciate your interest in Perilleux Real Estate and will keep your documents on file in case a full-time position opens up in the future."
+    },
+    "40": {
+        "1": "Unfortunately, we are changing our routes",
+        "2": "Passengers should arrive two hours before a flight",
+        "3": "We expect to hire more staff soon",
+        "4": "This is especially true during peak operating times",
+        "anwser": "This is especially true during peak operating times",
+        "question": "We have limited staff, and lines can often be quite long. [MASK]. These new kiosks are expected to significantly reduce the amount of time spent in line."
+    }
+}

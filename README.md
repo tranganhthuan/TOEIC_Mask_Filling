@@ -59,7 +59,7 @@ answer = use_gpt2(question,option)
 
 Full code:
 
-Download and run the full_code_colab.ipynb to see how the algorithm work
+Download and run the [full_code_colab.ipynb](https://github.com/tranganhthuan/TOEIC_Mask_Filling/blob/main/full_code_colab.ipynb) to see how the algorithm work
 
 ## Results:
 |          | Words Filling | Sentence Filling |

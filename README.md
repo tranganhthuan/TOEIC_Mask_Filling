@@ -44,9 +44,9 @@ Usage examples:
 - Filling words
 
 ```
-def use_gpt2(question,options):
-  scores = [score(tokenizer(question.replace("[MASK]", o), return_tensors="pt")) for o in options]
-  return options[np.argmin(scores)]
+option = ['suffer', 'suffers', 'suffering', 'suffered']
+question = "The assets of Marble Faun Publishing Company [MASK] last quarter when one of their main local distributors went out of business."
+answer = use_gpt2(question,option)
 ```
 
 - Filling a sentence

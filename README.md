@@ -57,7 +57,9 @@ question = "You are responsible for stowing your bike securely. [MASK]. Lakeview
 answer = use_gpt2(question,option)
 ```
 
-Full code: 
+Full code:
+
+Download and run the full_code_colab.ipynb to see how the algorithm work
 
 ## Results:
 |          | Words Filling | Sentence Filling |

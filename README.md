@@ -41,3 +41,7 @@ def use_gpt2(question,options):
 
 Usage example:
 
+Results:
+
+References:
+

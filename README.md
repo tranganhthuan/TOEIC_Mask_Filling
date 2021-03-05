@@ -39,9 +39,37 @@ def use_gpt2(question,options):
   return options[np.argmin(scores)]
 ```
 
-Usage example:
+Usage examples:
+
+- Filling words
+
+```
+def use_gpt2(question,options):
+  scores = [score(tokenizer(question.replace("[MASK]", o), return_tensors="pt")) for o in options]
+  return options[np.argmin(scores)]
+```
+
+- Filling a sentence
+
+```
+def use_gpt2(question,options):
+  scores = [score(tokenizer(question.replace("[MASK]", o), return_tensors="pt")) for o in options]
+  return options[np.argmin(scores)]
+```
 
 ## Results:
 
+
+
 ## References:
 
+Solution:
+
+- Using GPT-2 to output perplexity (https://stackoverflow.com/questions/63543006/how-can-i-find-the-probability-of-a-sentence-using-gpt-2)
+
+
+Datasets:
+
+- Filling words (https://www.kaggle.com/tientd95/bert-model-for-anwsering-toeic-reading-test) 
+
+- Filling an entire sentence (https://toeic24.vn/)

@@ -44,20 +44,26 @@ Usage examples:
 - Filling words
 
 ```
-option = ['suffer', 'suffers', 'suffering', 'suffered']
 question = "The assets of Marble Faun Publishing Company [MASK] last quarter when one of their main local distributors went out of business."
+option = ['suffer', 'suffers', 'suffering', 'suffered']
 answer = use_gpt2(question,option)
 ```
 
 - Filling a sentence
 
 ```
-def use_gpt2(question,options):
-  scores = [score(tokenizer(question.replace("[MASK]", o), return_tensors="pt")) for o in options]
-  return options[np.argmin(scores)]
+option = ['Folding bicycles have become more common', 'Additional service fees may apply', 'You can obtain route maps at most stations', 'You must also supply your own bike lock']
+question = "You are responsible for stowing your bike securely. [MASK]. Lakeview Railway does not take responsibility for bicycles lost or damaged aboard our trains."
+answer = use_gpt2(question,option)
 ```
 
+Full code: 
+
 ## Results:
+|          | Words Filling | Sentence Filling |
+|----------|---------------|------------------|
+| Accuracy | 0.92          | 0.57             |
+
 
 
 
